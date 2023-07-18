@@ -1,5 +1,9 @@
-### Hi there 👋
+### 🌱 Android Developer
+2019 ~ 2020 DSC HUFS
 
+2022 ~ 2023 SSAFY 8th
+## Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosdjs&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kosdjs/kosdjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
